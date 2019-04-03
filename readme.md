@@ -50,4 +50,3 @@
 -   A web nodejs app for the frontend that takes inputs to start the migration 
 -   The comunication between the web app and the web jobs happens through a cosmosdb database and webjobs poll for any changes in the db to start the migration 
 
-To try it use https://migrationwebappclient.azurewebsites.net
