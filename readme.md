@@ -17,7 +17,7 @@
     - take a note of the hostname bindings for the migrationwebappclient name which will be used as the client URI used for migration
     - the cosmos db account information provided is to store the migration metadata and migration state
 
-![template](./images/parameters.png)
+![template](./images/parameters.PNG)
 
 - After the template is deployed, open the URL for the migration client that you took note of above
 - Add the migration details needed ( the document age parameter is optional, it will start migrating from the beginning if not provided )
@@ -26,7 +26,7 @@
 
 - Once you start the migration, it will take you to the migration status page 
 
-![info](./images/info_page.png)
+![info](./images/info_page.PNG)
 
 - You can scale the number of workers up or down by scaling the migrationwebapp service 
 - If you want to check more migration metrics over time, you can check the custom metrics published to the app insights instance created with by the ARM template
