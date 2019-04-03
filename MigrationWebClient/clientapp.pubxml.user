@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>c:/users/hunomie/Desktop/serviceclient</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.NodejsTools.WebRole.dll">
+      <publishTime>09/13/2018 22:40:15</publishTime>
+    </File>
+    <File Include="CONTRIBUTING.md">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="LICENSE">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="media/image1.png">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="media/run-1.png">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="README.md">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="src/.DS_Store">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="src/app.js">
+      <publishTime>03/28/2019 10:44:29</publishTime>
+    </File>
+    <File Include="src/config.js">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="src/models/docdbUtils.js">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/models/migrationDao.js">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/package-lock.json">
+      <publishTime>03/27/2019 17:37:41</publishTime>
+    </File>
+    <File Include="src/package.json">
+      <publishTime>04/01/2019 15:19:54</publishTime>
+    </File>
+    <File Include="src/public/stylesheets/style.css">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/routes/index.js">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/routes/migrationlist.js">
+      <publishTime>04/01/2019 19:08:29</publishTime>
+    </File>
+    <File Include="src/routes/state.js">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/views/error.jade">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/views/index.jade">
+      <publishTime>04/01/2019 19:09:32</publishTime>
+    </File>
+    <File Include="src/views/layout.jade">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/web.config">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+    <File Include="src/www">
+      <publishTime>03/27/2019 17:37:42</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
