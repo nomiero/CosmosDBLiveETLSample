@@ -23,7 +23,7 @@
     },
     "migrationjoblocation": {
       "type": "String",
-      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/live-etl-service/MigrationService.zip"
+      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/live-etl-service/webjobs.zip"
     },
     "appinsightsname": {
       "type": "String"
