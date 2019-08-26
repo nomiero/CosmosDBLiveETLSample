@@ -19,11 +19,11 @@
     },
     "clientpackagelocation": {
       "type": "String",
-      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/deploymentartifacts/webclient.zip"
+      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/live-etl-service/clientApp.zip"
     },
     "migrationjoblocation": {
       "type": "String",
-      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/deploymentartifacts/migrationapp.zip"
+      "defaultValue": "https://nomiereastusdiag579.blob.core.windows.net/live-etl-service/MigrationService.zip"
     },
     "appinsightsname": {
       "type": "String"
